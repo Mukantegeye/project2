@@ -1,0 +1,22 @@
+
+
+img{
+        height: 128px;
+        padding-left: 50px;
+        padding-right: 50px;
+        position: sticky;
+        top: 300px;
+    }
+figure{
+    display: flex;
+background-color: green;
+margin: 0px;
+}
+
+figure-caption{
+background-color: rgb(215, 219, 217);  
+}
+p, h2{ 
+    padding-left: 50px;
+   padding-right: 50px;
+}
